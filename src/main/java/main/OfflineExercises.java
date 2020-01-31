@@ -14,8 +14,8 @@ public class OfflineExercises {
 
 	public String multChar(String input) {
 
-//		int i=0;i<input.length(); i++;
-//		System.out.println(input.substring(i,i+1)+input);
+		int i=0;i<input.length(); i++;
+		System.out.println(input.substring(i,i+1)+input);
 		return "";
 	}
 
@@ -118,8 +118,8 @@ input.replace((int)(i+1/2), newChar(""));
 
 	public int amISearch(String arg1) {
 		return 0;
-//		arg1.substring(arg1.
-//		return 0;
+		arg1.substring(arg1.
+		return 0;
 
 	}
 
@@ -161,10 +161,10 @@ input.replace((int)(i+1/2), newChar(""));
 	// largest("555 72 86 45 10") → 15
 
 	public int largest(String arg1) {
-//		String arg1=
-//		Char[] Array=arg1.split(arg1){
-//			for(int=0; i<args1.length;i++) {
-//				
+		String arg1=
+		Char[] Array=arg1.split(arg1){
+			for(int=0; i<args1.length;i++) {
+				
 //			}
 //			
 //		}
