@@ -13,11 +13,12 @@ public class OfflineExercises {
 	// multChar("Hi-There") → "HHHiii---TTThhheeerrreee"
 
 	public String multChar(String input) {
-
-		int i=0;i<input.length(); i++;
-		System.out.println(input.substring(i,i+1)+input);
-		return "";
-	}
+		return input;}
+//
+//		if(int i=0;i<input.length(); i++);
+//		System.out.println(input.substring(i,i+1)+input);
+		
+//	}
 
 	// Return the string (backwards) that is between the first and last appearance
 	// of "bert"
@@ -54,13 +55,15 @@ public class OfflineExercises {
 
 	public boolean evenlySpaced(int a, int b, int c) {
 		return false;
-		int[] numbers= new int[3];
-				numbers[0]=(int)a;
-		numbers[1]=(int)b;
-		numbers[2]=(int)c;
-		return Arrays.Sort(numbers);
-		if((b-a)=(c-a));
-	return "true"
+	}
+		
+//		int[] numbers= new int[3];
+//				numbers[0]=(int)a;
+////		numbers[1]=(int)b;
+//		numbers[2]=(int)c;
+//		return Arrays.parallelSort(numbers);
+//		if((b-a)=(c-a));
+//	return "true"
 
 	// Given a string and an int n, return a string that removes n letters from the
 	// 'middle' of the string.
@@ -72,10 +75,9 @@ public class OfflineExercises {
 	// nMid("Chocolate", 1) → "Choclate"
 
 	public String nMid(String input, int a) {
-		for(int i=0; i<input.length();++i);
-				
-input.replace((int)(i+1/2), newChar(""));
-		return "input";
+		
+//		for(int i=0; i<input.length();++i);
+		return null;
 	}
 
 	// Given a string, return true if it ends in "dev". Ignore Case
@@ -89,8 +91,6 @@ input.replace((int)(i+1/2), newChar(""));
 		if(input.endsWith("dev"));
 		return true;
 		
-		else(!input.endsWith("dev"));
-		return false;
 		
 		
 	}
@@ -118,8 +118,8 @@ input.replace((int)(i+1/2), newChar(""));
 
 	public int amISearch(String arg1) {
 		return 0;
-		arg1.substring(arg1.
-		return 0;
+//		arg1.substring(arg1.;
+//		return 0;
 
 	}
 
@@ -133,18 +133,21 @@ input.replace((int)(i+1/2), newChar(""));
 	// fizzBuzz(15) → "fizzbuzz"
 
 	public String fizzBuzz(int arg1) {
-		arg1 = 15;
-		if (arg1 % 5 == 0 && arg1 % 3 == 0)
+		
+		if (arg1 % 5 == 0 && arg1 % 3 == 0) {
 			return "fizzbuzz";
-		else if (arg1 % 5 == 0)
+		}
+		
+		else if (arg1 % 5 == 0) {
 			return "buzz";
-		else if (arg1 % 3 == 0)
-			return ("fizz");
-
-		System.out.println();
+		}
+		
+		else if (arg1 % 3 == 0) {
+			return "fizz";
+		}
 		return null;
-
-	}
+		}
+		
 
 	// Given a string split the string into the individual numbers present
 	// then add each digit of each number to get a final value for each number
@@ -161,13 +164,13 @@ input.replace((int)(i+1/2), newChar(""));
 	// largest("555 72 86 45 10") → 15
 
 	public int largest(String arg1) {
-		String arg1=
-		Char[] Array=arg1.split(arg1){
-			for(int=0; i<args1.length;i++) {
-				
-//			}
-//			
-//		}
+//		String arg1=
+//		Char[] Array=arg1.split(arg1){
+//			for(int=0; i<args1.length;i++) {
+//				
+////			}
+////			
+////		}
 		return 0;
 
 	}
